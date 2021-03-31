@@ -1,3 +1,3 @@
 # My personal web
 
-we
+just a normal personal web
